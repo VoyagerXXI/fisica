@@ -1,6 +1,6 @@
 # Mecanica
 
- O estudo da mecânica é o movimento
+ A mecânica é o estudo do movimento
 
 # Topicos
 
