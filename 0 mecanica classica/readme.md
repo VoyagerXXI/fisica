@@ -1,3 +1,7 @@
+# Mecanica
+
+ O estudo da mecânica é o movimento
+
 # Topicos
 
 * Mecânica estática (forças, tensão); hidrostática. Leis de Newton.
