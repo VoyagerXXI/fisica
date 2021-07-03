@@ -1,4 +1,4 @@
-# Mecanica
+# Mecânica
 
  A mecânica é o estudo do movimento
 
